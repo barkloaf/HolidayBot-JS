@@ -1,4 +1,5 @@
-# HolidayBot
+# HolidayBot-JS
+## This is the former code of HolidayBot, HolidayBot now exists as a bot written in Go at https://github.com/barkloaf/HolidayBot. The invite and voting link correspond to the Go bot as well.
 A discord bot created with discord.js that spits out real holidays that you may have never heard of before. All holidays are grabbed from https://checkiday.com
 
 ### Vote for HolidayBot on [discordbots.org!](https://discordbots.org/bot/504508062929911869)
